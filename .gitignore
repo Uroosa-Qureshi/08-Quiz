@@ -1,0 +1,14 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Optionally, you can ignore other files or directories that are typically not versioned
+# Build artifacts
+dist/
+build/
+
+# Log files
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
